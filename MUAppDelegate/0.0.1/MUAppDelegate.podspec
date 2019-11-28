@@ -6,7 +6,7 @@ Pod::Spec.new do |spec|
   spec.homepage      = 'https://github.com/MobileUpLLC/MUAppDelegate'
   spec.authors       = { 'Edgar Semko' => 'edgar.semko@mobileup.ru' }
   spec.summary       = 'MUAppDelegate'
-  spec.source        = { :git => 'https://github.com/MobileUpLLC/MUAppDelegate.git', :tag => 'v0.0.1' }
+  spec.source        = { :git => 'https://github.com/MobileUpLLC/MUAppDelegate.git', :tag => '0.0.1' }
   spec.module_name   = 'MUAppDelegate'
   spec.swift_version = '4.2'
 
