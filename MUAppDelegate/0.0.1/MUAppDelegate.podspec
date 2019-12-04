@@ -21,4 +21,7 @@ Pod::Spec.new do |spec|
   spec.dependency 'Firebase/Core'
   spec.dependency 'Firebase/Messaging', '5.20.2'
 
+  spec.dependency 'MUAPNsService', '0.0.1'
+  spec.dependency 'MUFirebaseMessagingService', '0.0.1'
+
 end
